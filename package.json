@@ -1,0 +1,24 @@
+{
+  "name": "01-node-ecosystem",
+  "version": "0.0.1",
+  "description": "this will be sooooo cool",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Aaron Ferris",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^5.15.3",
+    "jest": "^24.5.0"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codefellows-js-401d29-aaron-ferris/lab-01.git"
+  },
+  "bugs": {
+    "url": "https://github.com/codefellows-js-401d29-aaron-ferris/lab-01/issues"
+  },
+  "homepage": "https://github.com/codefellows-js-401d29-aaron-ferris/lab-01#readme"
+}
