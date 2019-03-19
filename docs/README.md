@@ -6,7 +6,7 @@
 ### Author: Aaron Ferris
 
 ### Links and Resources
-* [repo](https://github.com/codefellows-js-401d29-aaron-ferris)
+* [repo](https://github.com/codefellows-js-401d29-aaron-ferris/lab-01)
 * [travis](https://travis-ci.com/codefellows-js-401d29-aaron-ferris/lab-01)
 
 ### Modules
