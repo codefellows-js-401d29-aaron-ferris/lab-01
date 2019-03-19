@@ -3,7 +3,10 @@
   "version": "0.0.1",
   "description": "this will be sooooo cool",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "jest --verbose --coverage",
+    "test-watch": "jest --watchAll --verbose --coverage"
+  },
   "author": "Aaron Ferris",
   "license": "MIT",
   "dependencies": {
@@ -20,5 +23,6 @@
   "bugs": {
     "url": "https://github.com/codefellows-js-401d29-aaron-ferris/lab-01/issues"
   },
-  "homepage": "https://github.com/codefellows-js-401d29-aaron-ferris/lab-01#readme"
+  "homepage": "https://github.com/codefellows-js-401d29-aaron-ferris/lab-01#readme",
+  "devDependencies": {}
 }
