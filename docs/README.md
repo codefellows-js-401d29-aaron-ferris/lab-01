@@ -7,7 +7,6 @@
 
 ### Links and Resources
 * [repo](http://xyz.com)
-* [travis](http://xyz.com)
 
 ### Modules
 #### arithmetic.js

@@ -24,8 +24,9 @@ describe('Arithmetic Module', () => {
   //non-array test
   const string = 'Mr. Bean';
 
-
-
+ it(`${method} will return null for non integers`, () {
+ expect(arithmetic.[method].toEqual(null)) })
+ 
   //addition tests
   it('add will return null for non-integers', () => {
    expect(add(one)).toEqual(null);
@@ -49,6 +50,10 @@ describe('Arithmetic Module', () => {
 
   it('can add three numbers', () =>{
     expect(add(six)).toEqual(17);
+  });
+
+  it('return null without array', () =>{
+    expect(add(string)).toEqual(null);
   });
 
   //subtraction tests
