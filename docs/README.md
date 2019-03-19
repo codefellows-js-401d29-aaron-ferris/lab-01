@@ -6,7 +6,8 @@
 ### Author: Aaron Ferris
 
 ### Links and Resources
-* [repo](http://xyz.com)
+* [repo](https://github.com/codefellows-js-401d29-aaron-ferris)
+* [travis](https://travis-ci.com/codefellows-js-401d29-aaron-ferris/lab-01)
 
 ### Modules
 #### arithmetic.js
